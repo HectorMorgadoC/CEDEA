@@ -15,55 +15,61 @@ Cada carga tendra que ser relacionada a un circuito electrico
 **carga: motor trifasico**
 
 #### Cargas electricas.
-Motor trifásico (asíncronos o síncronos)
-Motor monofásico
-Motor paso a paso
-Motor de velocidad variable (controlados por variadores de frecuencia)
-Motor DC serie
-Motor DC shunt
-Motor DC compuestos
-Motor sin escobillas (Brushless DC Motors)
-Servomotore
-Motor lineale
-Cilindro eléctrico
-Actuador lineal
-Actuador rotativo
-Actuador para válvula (válvulas de mariposa, bola, etc.)
-Resistencia
-Luminarias LED
-Lámparas fluorescentes
-Lámparas de halogenuros metálicos
-Lámparas incandescentes
-Inversores (para motores y sistemas solares)
-Convertidores AC/DC, DC/AC, DC/DC
-Control de temperatura
-Control de velocidad
-Control de nivel
-Control de flujo
-Control de viscocidad
-Control de pH
+    - Motor trifásico (asíncronos o síncronos)
+    - Motor monofásico
+    - Motor paso a paso
+    - Motor de velocidad variable (controlados por variadores de frecuencia)
+    - Motor DC serie
+    - Motor DC shunt
+    - Motor DC compuestos
+    - Motor sin escobillas (Brushless DC Motors)
+    - Servomotor
+    - Motor lineale
+    - Cilindro eléctrico
+    - Actuador lineal
+    - Actuador rotativo
+    - Actuador para válvula (válvulas de mariposa, bola, etc.)
+    - Resistencia
+    - Luminarias LED
+    - Lámparas fluorescentes
+    - Lámparas de halogenuros metálicos
+    - Lámparas incandescentes
+    - Inversores (para motores y sistemas solares)
+    - Convertidores AC/DC, DC/AC, DC/DC
+    - Control de temperatura
+    - Control de velocidad
+    - Control de nivel
+    - Control de flujo
+    - Control de viscocidad
+    - Control de pH
 
 #### Equipos auxiliares
-Aire acondicionado
-Compresores eléctricos
-Ventiladores industriales
-Unidades de aire acondicionado (HVAC)
-Extractores de aire
-Bandas transportadoras (motorizadas)
-Polipastos eléctricos
-Grúas puente
-Carros de transferencia
-Bombas hidráulicas eléctricas
-Compresores de aire eléctricos
-Soldadoras eléctricas
-Hornos de inducción
-Sistemas de carga de baterías industriales
-Robots industriales (actuadores eléctricos integrados)
-Unidades de alimentación ininterrumpida (UPS)
-Generadores eléctricos para respaldo
-Sistemas de filtrado de armónicos
+    - Aire acondicionado
+    - Compresores eléctricos
+    - Ventiladores industriales
+    - Unidades de aire acondicionado (HVAC)
+    - Extractores de aire
+    - Bandas transportadoras (motorizadas)
+    - Polipastos eléctricos
+    - Grúas puente
+    - Carros de transferencia
+    - Bombas hidráulicas eléctricas
+    - Compresores de aire eléctricos
+    - Soldadoras eléctricas
+    - Hornos de inducción
+    - Sistemas de carga de baterías industriales
+    - Robots industriales (actuadores eléctricos integrados)
+    - Unidades de alimentación ininterrumpida (UPS)
+    - Generadores eléctricos para respaldo
+    - Sistemas de filtrado de armónicos
 
-#### cada carga debe de llevar sus caracteristicas pricipales(tension y corriente de consumo)
+#### cada carga debe de llevar sus caracteristicas pricipales
+    - Tension de trabajo.
+    - Potencia en KW.
+    - Corriente.
+    - Frecuencia.
+    - Fases.
+
 `ejemplo`
 **codigo de proceso: 100**
 **codigo de carga: 001**
